@@ -1,11 +1,13 @@
 <h2 align="center">Hi 👋, I'm Sonya Kim</h2>
-<h4 align="center">Developer + Designer</h4>
+<h3 align="center">Developer + Designer</h3>
 
 - 🔭 I’m currently working on applying for 99999999+ jobs.. 👀
 
 - 🌱 I’m currently learning everything about development!
 
-- ⚡ Fun fact is I know how to weld.
+- ⚡ Fun fact is I know how to weld!
+
+- Check out my <a href="https://www.linkedin.com/in/sonya-kim/" target="_blank" rel="noreferrer">Linked In</a>
 
 <!-- <h4 align="left">Connect with me:</h4>
 <p align="left">
