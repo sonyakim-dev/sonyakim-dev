@@ -1,7 +1,9 @@
 <h2 align="center">Hi 👋, I'm Sonya Kim</h2>
-<p>Awesome Developer & Designer</p>
+<h6>Awesome Developer & Designer</h6>
 - 🔭 I’m currently working on applying for 99999999+ jobs.. 👀
+
 - 🌱 I’m currently learning everything about development!
+
 - ⚡ Fun fact is I studied Art Craft and I know how to weld.
 
 <!-- <h4 align="left">Connect with me:</h4>
