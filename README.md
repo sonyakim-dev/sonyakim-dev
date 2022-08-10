@@ -9,7 +9,7 @@
 
 - 📃 Check out my [Linked In](https://www.linkedin.com/in/sonya-kim/)
 
-<h4 align="left">My Latest Project</h4>
+<h4 align="left">Project Highlight</h4>
 
 YouBelong | Today is a Holiday | IceMan
 :-------------------------:|:-------------------------:|:-------------------------:
