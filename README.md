@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Sonya Kim</h2>
 <h3>Developer + Designer</h3>
 
-- 🔭 I’m from <b>El Camino Community College</b> and <b>Snap Engineering Academy</b>!
+- 🔭 I’m from <b>El Camino Community College</b> and <b>Snap Engineering Academy</b>
 
-- 🌱 I’m currently learning everything about development!
+- 🌱 I’m currently looking for a job! Feel free to contact me.
 
-- ⚡ Fun fact is I know how to weld!
+- ⚡ Fun fact is I worked as a graphic designer and I know how to weld!
 
 - 📃 Check out my [Linked In](https://www.linkedin.com/in/sonya-kim/)
 
