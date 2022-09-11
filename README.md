@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Sonya Kim</h2>
 <h3>Developer + Designer</h3>
 
-- 🔭 I’m from <b>El Camino Community College</b> and <b>Snap Engineering Academy</b>
+- 🔭 I am a <b>Computer Science student</b> and <b>Snap Engineering Academy Scholar</b>
 
 - 🌱 I’m currently looking for a job! Feel free to contact me.
 
