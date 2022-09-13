@@ -1,13 +1,13 @@
 <h2 align="center">Hi 👋, I'm Sonya Kim</h2>
 <h3>Developer + Designer</h3>
 
-- 🔭 I am a <b>Computer Science student</b> and <b>Snap Engineering Academy Scholar</b>
+- 🔭 I am a <b>Computer Science student</b> and <b>2022 Snap Engineering Academy Scholar</b>
 
 - 🌱 I’m currently looking for a job! Feel free to contact me.
 
 - ⚡ Fun fact is I worked as a graphic designer and I know how to weld!
 
-- 📃 Check out my [Linked In](https://www.linkedin.com/in/sonya-kim/)
+- 📃 Check out my [LinkedIn](https://www.linkedin.com/in/sonya-kim/)
 
 <h4 align="left">Project Highlight</h4>
 
