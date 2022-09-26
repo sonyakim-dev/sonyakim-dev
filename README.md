@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact is I worked as a graphic designer and I know how to weld!
 
-- 📃 Check out my [LinkedIn](https://www.linkedin.com/in/sonya-kim/)
+- 📃 Check out my [LinkedIn](https://www.linkedin.com/in/sonya-kim/) and [Portfolio](https://sonyakim.com)
 
 <h4 align="left">Project Highlight</h4>
 
