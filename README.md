@@ -2,7 +2,7 @@
 
 - 🔭 I am studying <b>Computer Science & Linguistics</b> at <b>UCLA</b>
 
-- 🌱 I am a <b>2023 Snap Software Engineering Intern</b>
+- 🌱 I am a <b>2023 & 2024 Snap Software Engineering Intern</b>
 
 - 📚 I am learning Django...
 
