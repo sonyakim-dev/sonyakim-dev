@@ -1,6 +1,8 @@
 <h1 align="center">
+
+  
   <!-- https://github.com/DenverCoder1/readme-typing-svg?tab=readme-ov-file -->
-  <a href="https://github.com/sonyakim-dev"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=5EF74B&background=AFA0FF00&center=true&vCenter=true&width=435&height=40&lines=Welcome+to+Sonya+Kim's+Repo;Let's+go!" alt="Typing SVG" /></a>
+  <a href="https://github.com/sonyakim-dev"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=5EF74B&background=AFA0FF00&center=true&vCenter=true&width=435&height=42&lines=Welcome+to+Sonya+Kim's+Repo;Let's+go!" alt="Typing SVG"/></a>
 </h1>
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -15,9 +17,9 @@
 
 - 🔭 I am studying <b>Computer Science & Linguistics</b> at <b>UCLA</b>
 
-- 🌱 I am a <b>2023 & 2024 Snap Software Engineering Intern</b>
+- 🌱 I am a <b>2023 & 2024 Software Engineering Intern</b> at <b>Snap Inc.</b>
 
-- 📚 I am learning Go...
+- 📚 I am learning GoLang...
 
 - ⚡ The fun fact is I was a Craft Artist and I know how to weld!
 
@@ -35,7 +37,7 @@ YouBelong | Today is a Holiday | IceMan
 <h4 align="left">Languages and Tools:</h4>
 
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,bash,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,java,haskell,cpp,c,bash,html,css)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,jest,docker,gcp,kubernetes,firebase,supabase,grafana,tailwind,emotion,ps,ai)](https://skillicons.dev)
 
