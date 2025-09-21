@@ -15,9 +15,9 @@
 
 <h4 align="left">About me</h4>
 
-- 🔭 I am studying <b>Computer Science & Linguistics</b> at <b>UCLA</b>
+- 🔭 I studied <b>Computer Science & Linguistics</b> at <b>UCLA</b>
 
-- 🌱 I am a <b>Incoming Software Engineer</b> at <b>Snap Inc.</b>
+- 🌱 I am a <b>Software Engineer</b> at <b>Snap Inc.</b>
 
 - 🌞 I am based in <b>Los Angles, California</b>.
   
@@ -39,9 +39,9 @@ YouBelong | Today is a Holiday | IceMan
 <h4 align="left">Languages and Tools:</h4>
 
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,java,haskell,cpp,c,bash,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,ts,js,java,haskell,cpp,c,html,css,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,jest,docker,gcp,kubernetes,firebase,supabase,grafana,tailwind,emotion,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,docker,gcp,aws,kubernetes,postgres,supabase,grafana,ps,ai)](https://skillicons.dev)
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
