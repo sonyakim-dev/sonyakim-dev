@@ -23,7 +23,7 @@
   
 - 📚 I am learning GoLang...
 
-- ⚡ The fun fact is I was a Craft Artist and I know how to weld!
+- ⚡ The fun fact is I was a Craft Artist, and I know how to weld!
 
 
 <!--
@@ -45,5 +45,4 @@ YouBelong | Today is a Holiday | IceMan
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyakim-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyakim-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
