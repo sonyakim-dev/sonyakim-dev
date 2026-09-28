@@ -1,6 +1,5 @@
 <h1 align="center">
 
-  <br>
   <!-- https://github.com/DenverCoder1/readme-typing-svg?tab=readme-ov-file -->
   <a href="https://github.com/sonyakim-dev"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=5EF74B&background=AFA0FF00&center=true&vCenter=true&width=435&height=30&lines=Welcome+to+Sonya+Kim's+Repo;Let's+go!" alt="Typing SVG"/></a>
 </h1>
